@@ -4,7 +4,7 @@ import "./TypeAndDelete.css"; // 👈 import the CSS
 export default function TypeAndDelete({
   words = [
     "App Development",
-    "React Native Developer",
+    "Web Development",
     "Software Developer",
     "Full Stack Developer",
     "QA Enthusiast",
