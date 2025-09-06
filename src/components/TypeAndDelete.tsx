@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import "./TypeAndDelete.css"; // 👈 import the CSS
+import "./TypeAndDelete.css";
 
 export default function TypeAndDelete({
   words = [
